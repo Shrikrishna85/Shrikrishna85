@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Shrikrishna 👋
 
-<!--
-**Shrikrishna85/Shrikrishna85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Full Stack Developer
 
-Here are some ideas to get you started:
+I'm building my skills in Java programming, problem-solving, and full-stack web development. I enjoy learning by writing code, solving practical problems, and building projects that demonstrate my progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Learning Java and Full-Stack Development
+- 🧠 Practicing Data Structures and Algorithms
+- 🛠️ Building projects and improving my coding skills
+- 📚 Learning Git and GitHub to manage and showcase my work
+- 🎯 Working toward becoming job-ready as a Java Full Stack Developer
+
+## 🧰 Technologies & Tools
+
+**Currently working with**
+- Java
+- Git and GitHub
+- Visual Studio Code
+- Eclipse IDE
+
+**Exploring next**
+- HTML, CSS, and JavaScript
+- SQL and databases
+- Spring Boot and REST APIs
+
+## 📂 Featured Project
+
+### Java DSA Journey
+
+My learning repository for Java programming and problem-solving practice.
+
+- Practicing array operations and search algorithms
+- Solving coding problems using real-world scenarios
+- Tracking my progress through code and Git commits
+
+🔗 [View Java DSA Journey](https://github.com/Shrikrishna85/Java-DSA-Journey)
+
+## 📈 My Goal
+
+To become a capable Java Full Stack Developer by building practical projects, strengthening my fundamentals, and continuously improving through hands-on learning.
+
+---
+
+⭐ Thanks for visiting my profile. Feel free to explore my repositories and follow my journey!
